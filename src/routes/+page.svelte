@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app NOW ON GITHUB
+		to your new<br />SvelteKit app pushed? yes!
 	</h1>
 
 	<h2>
